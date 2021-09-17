@@ -9,7 +9,7 @@ In the FESTIV folder you will find the following:
 - SegLink (folder)
 - data_synthtext.py
 - results.ipynb
-- minimize.py (this is not apart of FESTIV, but rather an attempt to find the optimal initial weights for the Depthwise Separable Convolutions) 
+- minimize.py (this is not apart of FESTIV, but rather an attempt to find the optimal initial weights for the Depthwise Separable Convolutions) 
 - example_output.mov (this is a video demonstrating FESTIV when run on a home video)
 
 #############################################################################################
